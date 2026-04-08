@@ -1,0 +1,21 @@
+PL,SKU,season,promotion
+DELLG0_SUP_INK,P009,Q1 (Nov-Jan),10% off ink
+DELLG0_SUP_INK,P009,Q2 (Feb-Apr),$2 off toner
+DELLG0_SUP_INK,P009,Q3 (May-Jul),5% off toner
+DELLG0_SUP_INK,P009,Q4 (Aug-Oct),20% off ink
+DELL7Y_PC_Desktop,P022,Q1 (Nov-Jan),$10 off laptops
+DELL7Y_PC_Desktop,P022,Q2 (Feb-Apr),Free accessories
+DELL7Y_PC_Desktop,P022,Q3 (May-Jul),Free accessories
+DELL7Y_PC_Desktop,P022,Q4 (Aug-Oct),15% off
+HP4K_SUP_INK,P021,Q1 (Nov-Jan),10% off ink
+HP4K_SUP_INK,P021,Q2 (Feb-Apr),$2 off toner
+HP4K_SUP_INK,P021,Q3 (May-Jul),5% off toner
+HP4K_SUP_INK,P021,Q4 (Aug-Oct),20% off ink
+HP38_PC_Desktop,P023,Q1 (Nov-Jan),$10 off laptops
+HP38_PC_Desktop,P023,Q2 (Feb-Apr),Free accessories
+HP38_PC_Desktop,P023,Q3 (May-Jul),Free accessories
+HP38_PC_Desktop,P023,Q4 (Aug-Oct),15% off
+HPT6_SUP_INK,P024,Q1 (Nov-Jan),10% off ink
+HPT6_SUP_INK,P024,Q2 (Feb-Apr),$2 off toner
+HPT6_SUP_INK,P024,Q3 (May-Jul),5% off toner
+HPT6_SUP_INK,P024,Q4 (Aug-Oct),20% off ink
